@@ -4,11 +4,12 @@ function comparisonToEqual(a) {
     return "Less than 5";
     if(a<10)
     return "Less than 10";
-    if(a>=10 && a<21)
-    return "10 or over";
-    if(a>20)
+    if(a>=10)
+    if(a>=21)
     return "More than 20";
+    return "10 or over";
+
 }
-console.log(comparisonToEqual(5));
+console.log(comparisonToEqual(20));
 // Only change code bellow this line
 module.exports = comparisonToEqual;
