@@ -5,5 +5,5 @@
         else return "Not equal";
  }
  console.log(myEqualFunction(23));
-// Only change code bellow this line
+// Only change code above this line
 module.exports = myEqualFunction;

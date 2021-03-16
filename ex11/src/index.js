@@ -1,4 +1,4 @@
-// Only change code below this line
+// Write code below this line
 function switchCase(letter) {
     
     switch (letter) {
@@ -16,9 +16,8 @@ function switchCase(letter) {
             animals = "stuff";
             break;
     }
-
+// Write code above this line
     return animals;
 }
-console.log(switchCase("cad"));
-// Only change code bellow this line
+console.log(switchCase("a")); // Change this line
 module.exports = switchCase;

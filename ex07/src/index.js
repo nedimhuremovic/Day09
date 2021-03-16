@@ -5,5 +5,5 @@ function logicalAndOperator(num) {
         return "No";
 }
 console.log(logicalAndOperator(100));
-// Only change code bellow this line
+// Only change code above this line
 module.exports = logicalAndOperator;

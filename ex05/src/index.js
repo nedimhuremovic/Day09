@@ -5,5 +5,5 @@ function compareStrictValues(m) {
     return "Equal";
 }
 console.log(compareStrictValues("55"));
-// Only change code bellow this line
+// Only change code above this line
 module.exports = compareStrictValues;

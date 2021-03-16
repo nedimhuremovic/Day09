@@ -7,5 +7,5 @@
         return "The paremeter is false!";
     }
     console.log(myFunction(false));
-// Only change code bellow this line
+// Only change code above this line
 module.exports = myFunction;

@@ -6,5 +6,5 @@ function compareDifferentValues(m,n) {
     return "Not equal";
 }
 console.log(compareDifferentValues("8",8));
-// Only change code bellow this line
+// Only change code above this line
 module.exports = compareDifferentValues;

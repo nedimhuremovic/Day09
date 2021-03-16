@@ -11,5 +11,5 @@ function comparisonToEqual(a) {
 
 }
 console.log(comparisonToEqual(20));
-// Only change code bellow this line
+// Only change code above this line
 module.exports = comparisonToEqual;

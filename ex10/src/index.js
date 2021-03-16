@@ -9,5 +9,5 @@ function logicOrder(num) {
     } 
 }
 console.log(logicOrder(164));
-// Only change code bellow this line
+// Only change code above this line
 module.exports = logicOrder;
